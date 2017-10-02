@@ -1,0 +1,51 @@
+body {
+	background-image: url("cssimage1.jpg");
+	background-size: 1500px 800px;
+	/* background-repeat: no-repeat; */
+	text-align : center;
+	border: hidden;
+}
+.row1{
+	font-size: 1em;
+}
+.home {
+	color: black;
+}
+.head{
+	font-size: 2.5em;
+	font-weight: bolder;
+}
+
+.colorchange{
+	color : red;	
+}
+#links{
+	font-size: 2.75em;
+	color: black;
+}
+#links1{
+	font-size: 2.75em;
+	color:#0066ff;
+}
+#links2{
+	font-size: 2.25em;
+	color:#0099ff;
+}
+.links2{
+	font-size: 2.75em;
+	color:#0099ff;
+}
+p{
+	color : white;
+}
+.textstyle{
+	
+	font-size: 20px;
+}
+footer{
+	font-size: 2em;
+	
+}
+header{
+	font-size: 2.5em;
+}
